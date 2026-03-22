@@ -12,12 +12,12 @@ I am a strong advocate for clean code, UI/UX design, performance optimization, a
 
 ### 🛠️ My skills include
 
-[![React](https://img.shields.io/badge/-React-000?style=for-the-badge\&logo=react)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge\&logo=typescript)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge\&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge\&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge\&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge\&logo=tailwind-css)](https://tailwindcss.com/)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)  
 
-[![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge\&logo=git)](https://git-scm.com/)
-[![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge\&logo=gitlab)](https://about.gitlab.com/)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
+![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg)
