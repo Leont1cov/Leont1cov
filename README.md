@@ -6,7 +6,7 @@ I am a strong advocate for clean code, UI/UX design, performance optimization, a
 
 * ⚡ Fun fact: I spent 9 years studying music before transitioning into IT — discipline and creativity still guide my approach to development
 * 💡 I'm interested in: Web Development, React, modern frontend technologies, and building scalable applications
-* 💬 Talk to me about: Art 🎨, Tennis 🎾, Formula 1 🏎️, Movies 🎥, or Sea of Thieves 🎮
+* 💬 Talk to me about: Art 🎨, Tennis 🎾, Formula 1 🏎️, Movies 🎥
 
 ---
 
